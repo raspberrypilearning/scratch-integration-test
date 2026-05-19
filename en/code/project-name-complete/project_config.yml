@@ -1,4 +1,4 @@
-name: "Project title completed"
-identifier: "project-title-complete"
-type: 'python'
+name: "Scratch integration test completed"
+identifier: "scratch-integration-test-complete"
+type: 'code_editor_scratch'
 build: false
