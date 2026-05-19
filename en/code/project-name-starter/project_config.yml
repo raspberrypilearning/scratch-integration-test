@@ -1,4 +1,4 @@
-name: "Project title starter"
-identifier: "project-name-starter"
-type: 'python'
+name: "Scratch integration test starter"
+identifier: "scratch-integration-test-starter"
+type: 'code_editor_scratch'
 build: false
