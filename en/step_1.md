@@ -1,45 +1,55 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+<h2 class="c-project-heading--task">Print Hello</h2>
 
-A brief description - one or two sentences. 
+➡️ Display the word 'Hello' on the screen
 
---- print-only ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-![ALT TEXT](images/IMAGE.png)
+In Python, `print()` outputs strings (words or numbers) to the screen.
 
---- /print-only ---
+Type the code to `print()` Hello to the screen:
 
---- no-print ---
+<div class="c-project-code">
 
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 10
+line_highlights: 11
+---
 
---- /no-print ---
+# Put code to run under here.
+print(f'Hello')
 
---- no-print ---
+--- /code ---
 
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /no-print ---
+## Now run your code
 
-### You will need:
-- a
-- b
-- c
+This is what you should see when you run your code.
+
+<div class="c-project-output">
+```
+Hello
+```
+</div>
+
+### Tip
+
+<div class="c-project-callout c-project-callout--tip">
+
+When you type an opening bracket `(` the code editor will automatically add a closing bracket `)` 
+This also happens when you type an opening apostrophe `'`.
+
+</div>
+
+### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
+
+If you get an error then check your code really carefully. Check there are single quotes around `Hello` so Python knows it is meant to be text.
+
+</div>
+
+Click the **Run** button and check that `Hello` appears in the output.
