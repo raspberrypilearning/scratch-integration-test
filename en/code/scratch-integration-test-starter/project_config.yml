@@ -1,7 +1,7 @@
 name: "Scratch integration test starter"
 identifier: "editor-scratch-testing-starter"
 type: "code_editor_scratch"
-build: false
+build: true
 COMPONENTS:
   - name: "main"
     extension: "sb3"
